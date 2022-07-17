@@ -1,0 +1,12 @@
+{
+  "user": [
+    {
+      "data": "{\"id\":\"b3071f79-206b-4927-bdef-45703f6d44f0\",\"username\":\"adm9658\",\"first_name\":\"admin\",\"last_name\":\"admin\",\"mobile_no\":\"3254879658\",\"email_id\":\"admin@gmail.com\",\"designation\":{\"id\":\"4f6a50b9-2db3-474d-8a9c-4ba6533a646b\",\"name\":\"Trainee Engineer\"},\"organisation\":{\"id\":\"2881c8b2-d1ac-46a3-b0d2-24622f7cd07c\",\"name\":\"placid\"},\"industry\":{\"id\":\"a2dbb207-0685-4665-a0f8-47fdfc2295c3\",\"name\":\"ca\"},\"Constitution\":\"this\",\"GSTIN\":\"25478965\",\"address\":\"ggetgget\",\"country\":\"fdhdh\",\"state\":\"fdherah\",\"district\":\"fdrhearh\",\"userpakeg\":[{\"id\":\"6ba27a6d-67da-4c94-99b7-bf34b6a4f868\",\"package\":{\"id\":\"5a400a15-540d-4b03-aca0-aedbb71db6a6\",\"package_name\":null,\"description\":null,\"clients_count\":20,\"staff_count\":30,\"plan\":15,\"base_price\":50,\"discount\":80,\"storage\":40}}],\"created_at\":\"2022-04-11T06:25:09.362426+00:00\"}",
+      "id": 1
+    },
+    {
+      "data": "{\"id\":\"b3071f79-206b-4927-bdef-45703f6d44f0\",\"username\":\"adm9658\",\"first_name\":\"admin\",\"last_name\":\"admin\",\"mobile_no\":\"3254879658\",\"email_id\":\"admin@gmail.com\",\"designation\":{\"id\":\"4f6a50b9-2db3-474d-8a9c-4ba6533a646b\",\"name\":\"Trainee Engineer\"},\"organisation\":{\"id\":\"2881c8b2-d1ac-46a3-b0d2-24622f7cd07c\",\"name\":\"placid\"},\"industry\":{\"id\":\"a2dbb207-0685-4665-a0f8-47fdfc2295c3\",\"name\":\"ca\"},\"Constitution\":\"this\",\"GSTIN\":\"25478965\",\"address\":\"ggetgget\",\"country\":\"fdhdh\",\"state\":\"fdherah\",\"district\":\"fdrhearh\",\"userpakeg\":[{\"id\":\"6ba27a6d-67da-4c94-99b7-bf34b6a4f868\",\"package\":{\"id\":\"5a400a15-540d-4b03-aca0-aedbb71db6a6\",\"package_name\":null,\"description\":null,\"clients_count\":20,\"staff_count\":30,\"plan\":15,\"base_price\":50,\"discount\":80,\"storage\":40}}],\"created_at\":\"2022-04-11T06:25:09.362426+00:00\"}",
+      "id": 2
+    }
+  ]
+}
